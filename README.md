@@ -1,2 +1,2 @@
 # CSC-241
-Intro to CS1
+Backlog of my work and progression;
